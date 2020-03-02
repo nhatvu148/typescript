@@ -1,0 +1,12 @@
+"use strict";
+let myString;
+let myNum;
+let myBool;
+let myVar;
+let strArr;
+myString = "Hello";
+myNum = 22;
+myBool = true;
+myVar = "Hey";
+strArr = [1, 2];
+console.log(strArr);
